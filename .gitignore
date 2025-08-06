@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtualenv
+.venv/
+venv/
+env/
+
+# Environment files
+.env
+*.key
+
+# Docker
+docker-compose.override.yml
+
+# IDE
+.vscode/
+.idea/
+
